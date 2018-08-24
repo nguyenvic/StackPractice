@@ -81,9 +81,4 @@ public class theStack {
 	{
 		System.out.printf("%s", stackArray[topOfStack]);
 	}
-	
-	
-	
-	
-
 }
