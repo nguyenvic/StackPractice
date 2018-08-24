@@ -10,7 +10,7 @@ public class theStack {
 	{
 		stackSize = size;
 		stackArray = new String[size];
-		Arrays.fill(stackArray, "-1");
+		Arrays.fill(stackArray, "-1");				//Filling stack with -1's
 		
 	}
 	
